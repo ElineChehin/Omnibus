@@ -1,1 +1,1 @@
-# Omnibus
+Console application that allows users to manage a fictional world of superheroes and villains. Users can view and manage lists of heroes and villains including their gadgets, power levels and fans. The app also supports battles between heroes and villains, where factors like power levels, gadgets and fans determine the outcome.
